@@ -1,0 +1,6 @@
+{
+    "database-connection-string": "http://connecttomydatabase.net",
+    "username": "",
+    "password": "",
+    "output-type": "csv"
+}
